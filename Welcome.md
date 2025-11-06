@@ -1,7 +1,9 @@
-This is your new *vault*.
+# Welcome to Obsidian × bake
 
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
+Got it syncing with my phone app through GitHub — and it works perfectly.  
+The extensibility is incredible, and I’m genuinely excited.  
+Planning to manage our company blog with Obsidian too.  
 
-When you're ready, delete this note and make the vault your own.
+[[create a link]]
 
-aaa
+→ Visit our site: [bake/blog/hello-obsidian](https://seimei.do/en/blog)
