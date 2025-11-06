@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "1e2139036a5a8d7d",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "e82cf9760ffec094",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "91fe4eeec9486a70",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -136,20 +136,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
-                "showSearch": false,
+                "followCursor": true,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "0dd1af3babf5c924",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,8 +175,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "91fe4eeec9486a70",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "LICENSE",
     "Welcome.md"
   ]
 }
